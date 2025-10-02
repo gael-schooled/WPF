@@ -1,0 +1,15 @@
+C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\bin\Debug\WPF_Project.exe.config
+C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\bin\Debug\WPF_Project.exe
+C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\bin\Debug\WPF_Project.pdb
+C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\WPF_Project.csproj.AssemblyReference.cache
+C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\MainWindow.g.cs
+C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\App.g.cs
+C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\WPF_Project_MarkupCompile.cache
+C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\WPF_Project_MarkupCompile.lref
+C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\MainWindow.baml
+C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\WPF_Project.g.resources
+C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\WPF_Project.Properties.Resources.resources
+C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\WPF_Project.csproj.GenerateResource.cache
+C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\WPF_Project.csproj.CoreCompileInputs.cache
+C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\WPF_Project.exe
+C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\WPF_Project.pdb
