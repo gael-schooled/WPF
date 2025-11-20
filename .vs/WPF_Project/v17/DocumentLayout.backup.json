@@ -3,47 +3,77 @@
   "WorkspaceRootPath": "C:\\Users\\gaelt\\source\\repos\\WPF_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31C495F9-8881-4C63-99D6-17303B550251}|WPF_Project\\WPF_Project.csproj|c:\\users\\gaelt\\source\\repos\\wpf_project\\wpf_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{31C495F9-8881-4C63-99D6-17303B550251}|WPF_Project\\WPF_Project.csproj|c:\\users\\gaelt\\source\\repos\\wpf_project\\wpf_project\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C495F9-8881-4C63-99D6-17303B550251}|WPF_Project\\WPF_Project.csproj|solutionrelative:wpf_project\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C495F9-8881-4C63-99D6-17303B550251}|WPF_Project\\WPF_Project.csproj|C:\\Users\\gaelt\\source\\repos\\WPF_Project\\wpf_project\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31C495F9-8881-4C63-99D6-17303B550251}|WPF_Project\\WPF_Project.csproj|solutionrelative:wpf_project\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C495F9-8881-4C63-99D6-17303B550251}|WPF_Project\\WPF_Project.csproj|C:\\Users\\gaelt\\source\\repos\\WPF_Project\\wpf_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{31C495F9-8881-4C63-99D6-17303B550251}|WPF_Project\\WPF_Project.csproj|solutionrelative:wpf_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31C495F9-8881-4C63-99D6-17303B550251}|WPF_Project\\WPF_Project.csproj|c:\\users\\gaelt\\source\\repos\\wpf_project\\wpf_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31C495F9-8881-4C63-99D6-17303B550251}|WPF_Project\\WPF_Project.csproj|C:\\Users\\gaelt\\source\\repos\\WPF_Project\\wpf_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31C495F9-8881-4C63-99D6-17303B550251}|WPF_Project\\WPF_Project.csproj|solutionrelative:wpf_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 293,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\gaelt\\source\\repos\\WPF_Project\\WPF_Project\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WPF_Project\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\gaelt\\source\\repos\\WPF_Project\\WPF_Project\\MainWindow.xaml*",
-              "RelativeToolTip": "WPF_Project\\MainWindow.xaml*",
+              "DocumentIndex": 1,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\gaelt\\source\\repos\\WPF_Project\\WPF_Project\\Window1.xaml",
+              "RelativeDocumentMoniker": "WPF_Project\\Window1.xaml",
+              "ToolTip": "C:\\Users\\gaelt\\source\\repos\\WPF_Project\\WPF_Project\\Window1.xaml",
+              "RelativeToolTip": "WPF_Project\\Window1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-25T09:00:25.8Z",
+              "WhenOpened": "2025-10-23T08:25:36.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gaelt\\source\\repos\\WPF_Project\\WPF_Project\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Project\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\gaelt\\source\\repos\\WPF_Project\\WPF_Project\\Window1.xaml.cs",
+              "RelativeToolTip": "WPF_Project\\Window1.xaml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA/wFcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:18:37.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\gaelt\\source\\repos\\WPF_Project\\WPF_Project\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPF_Project\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\gaelt\\source\\repos\\WPF_Project\\WPF_Project\\MainWindow.xaml.cs",
               "RelativeToolTip": "WPF_Project\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T09:00:24.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T09:00:24.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\gaelt\\source\\repos\\WPF_Project\\WPF_Project\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Project\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\gaelt\\source\\repos\\WPF_Project\\WPF_Project\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_Project\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-23T08:23:43.164Z"
             }
           ]
         }
