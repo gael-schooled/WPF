@@ -28,9 +28,9 @@
                 Horloge
             </Button.Content>
         </Button>
-        <Button Grid.Row="8" Grid.Column="1" x:Name="btn" Margin="5,5,5,5" Click="btn_Click">
+        <Button Grid.Row="8" Grid.Column="1" x:Name="btn" Margin="5,5,5,5" Click="btn_Click_Todo">
             <Button.Content >
-                autre
+                Cahier de charge
             </Button.Content>
         </Button>
         <Button Grid.Row="2" Grid.Column="1" x:Name="btnConnexion" Margin="5,5,5,5" Click="btn_Con_Click">

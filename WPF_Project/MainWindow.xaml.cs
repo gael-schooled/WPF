@@ -41,5 +41,10 @@ namespace WPF_Project
         {
             Window1 window1 = new Window1(); window1.Show();
         }
+
+        private void btn_Click_Todo(object sender, RoutedEventArgs e)
+        {
+            ToDo toDo = new ToDo(); toDo.Show();
+        }
     }
 }
