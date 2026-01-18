@@ -37,3 +37,4 @@ C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\WPF_Project.Genera
 C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\WPF_Proj.6B2C992A.Up2Date
 C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\Window1.g.cs
 C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\Window1.baml
+C:\Users\gaelt\source\repos\WPF_Project\WPF_Project\obj\Debug\WPF_Project.exe.config
