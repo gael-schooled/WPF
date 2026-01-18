@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="ToDo" Height="450" Width="800">
     <Window.Resources>
-        <local:TaskConverter x:Key="TaskConverter"/>
+        <!--local:TaskConverter x:Key="TaskConverter"/-->
 
         <!-- Style pour les tâches -->
         <Style x:Key="TaskItemStyle" TargetType="ListBoxItem">

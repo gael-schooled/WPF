@@ -85,10 +85,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="TaskConverter.cs" />
     <Compile Include="DoneToTextStyleConverter.cs" />
     <Compile Include="StopWatchViewModel.cs" />
     <Compile Include="TaskItem.cs" />
-    <Compile Include="TaskConverter.cs" />
     <Compile Include="ToDo.xaml.cs">
       <DependentUpon>ToDo.xaml</DependentUpon>
     </Compile>
